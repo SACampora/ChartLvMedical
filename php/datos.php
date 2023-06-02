@@ -17,8 +17,8 @@ if(!$mysqli){
 	die("La Conexión ha fallado: " . $mysqli->error);
 }
 
-// Seleccionamos los datos de la tabla postres
-$query = sprintf("SELECT id, nombre, stock, precio FROM postres");
+// Seleccionamos los datos de la tabla InsumosVeterniariosMayo
+$query = sprintf("SELECT id, nombre, stock, precio FROM InsumosVeterinariosMayo");
 
 $result = $mysqli->query($query);
 

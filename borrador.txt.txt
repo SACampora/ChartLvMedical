@@ -1,0 +1,14 @@
+Para usarlo primero, debes consultarlo con tu jefatura directo. Los pasos son los siguientes:
+
+1.- primero abrir el siguente enlace : http://localhost/phpmyadmin/
+2.- crear una base de datos
+3.- ingresar datos en la base creada
+4.- guardar cambios de los querys realizados
+5.- revisar cambios guardados
+6.- ingresar al enlace: http://localhost/chartlvmedical/inicio.php
+7.- continuar con la página
+8.- corroborar cambios
+
+
+IMPORTANTE: antes de ejecutar se debe realizar el levantamiento de los servicios de php y mysql
+	    a través de Xampp	

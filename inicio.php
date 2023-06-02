@@ -12,7 +12,7 @@
 <body>
 
 
-
+<!--pagina de presentacion-->
   <div class="site-wrapper">
 
     <div class="site-wrapper-inner">
@@ -21,23 +21,6 @@
     
         <div class="masthead clearfix">
 
-          <!--   
-          <div class="container inner">
-
-
-
-            h3 class="masthead-brand">Cover</h3
-            <nav>
-              <ul class="nav masthead-nav">
-                <li class="active"><a href="#">Home</a></li>
-                <li><a href="#">Features</a></li>
-                <li><a href="#">Contact</a></li>
-              </ul>
-            </nav>
-          </div>
-        </div>
-    
-        -->
     
         <div class="inner cover">
           <svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" fill="currentColor" class="bi bi-bar-chart-line" viewBox="0 0 16 16">
@@ -47,7 +30,9 @@
           <h2 class="cover-heading">Bienvenid@</h2>
           <p class="lead">Bienvenido a la página de  dashboard, en la que podras ingresar tus datos en distintos gráficos y tener tus respueastas en poco tiempo.</p>
           <p class="lead">
+            <!--boton de entrada-->
             <a href="torta.php" class="btn btn-primary btn-lg" > ENTRA AQUI</a> 
+            <!--boton de entrada-->
 
           </p>
         </div>

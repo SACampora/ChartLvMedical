@@ -41,18 +41,36 @@
     <main role="main">
 
       <section class="jumbotron text-center">
-        <div class="container">
-          <h1 class="jumbotron-heading">Cómo lo uso?</h1>
-          <div class="text-nowrap bg-body-secondary border" style="width: 8rem;">
-  This text should overflow the parent.
-</div>
 
 
-<p class="lh-1">This is a long paragraph written to show how the line-height of an element is affected by our utilities. Classes are applied to the element itself or sometimes the parent element. These classes can be customized as needed with our utility API.</p>
+              <div class="container">
+              <h1 class="jumbotron-heading">Información </h1>
 
-            <br>
-          <div class="row mt-4">
-            <div class="col-md-12">
+
+
+<p class="lh-1" class="fw-bold"> Para usarlo primero, debes consultarlo con tu jefatura directo. Los pasos son los siguientes: </p>
+  
+
+
+                <ol>   
+                <li>  1.-primero abrir el siguente enlace : http://localhost/phpmyadmin/  </li> 
+                <li>  2.- crear una base de datos </li> 
+                <li>  3.- ingresar datos en la base creada </li>
+                <li>  4.- guardar cambios de los querys realizados </li>
+                <li>  5.- revisar cambios guardados </li>
+                <li>  6.- ingresar al enlace: http://localhost/chartlvmedical/inicio.php </li>
+                <li>  7.- continuar con la página </li>
+                <li>  8.- corroborar cambios </li>
+                </ol> 
+   
+
+
+
+
+
+                <br>
+                <div class="row mt-4">
+                <div class="col-md-12">
 
               <canvas id="miGrafico"></canvas> 
               
